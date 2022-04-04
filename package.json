@@ -1,0 +1,16 @@
+{
+  "name": "weather-service",
+  "version": "1.0.0",
+  "description": "App that displays map of different cities with current weather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasaine Kipusi - #500936268",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "pug": "^3.0.2"
+  }
+}
